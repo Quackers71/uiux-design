@@ -1,4 +1,4 @@
-# uxui-design
-### UX / UI Design Learning
+# uiux-design
+### UI / UX Design Learning
 
-- Started via Coursera
+- TBC

@@ -14,4 +14,4 @@ In completing this course you will…
 
 - practice low-fidelity prototyping techniques 
 
- -learn the bases of design evaluation
+- learn the bases of design evaluation

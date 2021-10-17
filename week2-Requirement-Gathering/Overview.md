@@ -1,4 +1,4 @@
-### Overview of Requirements Gathering Module
+## Overview of Requirements Gathering Module
 
 Welcome to user experience design. Interaction design is a cycle. In this lesson you will get an overview of the material to be covered and the requirements gathering module.
 

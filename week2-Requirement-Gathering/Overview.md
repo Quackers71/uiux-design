@@ -12,11 +12,10 @@ The client would like for you to build a ubiquitous computing system. You tell t
 
 The goal of requirement gathering is to understand the problem space.
 
-We understand the problem space by learning who the users are,
-
-when, where, why, and how they currently accomplish the task in question.
-
-What users perceive are problems with their current practices. And user's wish list for improving how they currently accomplish their task.
+- We understand the problem space by learning who the users are,
+- when, where, why, and how they currently accomplish the task in question.
+- What users perceive are problems with their current practices. 
+- User's wish list for improving how they currently accomplish their task.
 
 The main pitfall of requirement gathering is that designers start designing alternatives when they do not completely understand the task, the user, or how the user currently accomplishes a task. In other words, they get ahead of themselves. They start designing without user data.
 
@@ -24,14 +23,34 @@ I have told you that one of the mantras for this class is that design is a syste
 
 Designers have techniques that allow us to discover what the user is doing now and we have other techniques that allow us to present and summarize our results.
 
-In this module we will review four discovery techniques. Naturalistic observation, survey, focus group and interview.
+In this module we will review four discovery techniques. 
 
-We also have techniques for representing what we discover about the user. This include user characteristics tables and personas.
+- Naturalistic observation
+- Surveys 
+- Focus groups 
+- Interviews
 
-There are also techniques to represent findings about the tasks. These include scenarios, essential use case scenarios, hierarchical task analysis and current UI critique.
+We also have techniques for representing what we discover about the user. This include 
+
+- User characteristics tables
+- Personas.
+
+There are also techniques to represent findings about the tasks. These include 
+- Scenarios
+- Essential use case scenarios
+- Hierarchical task analysis 
+- Current UI critique
 
 Based on the requirements gathering data we will also be able to develop usability principles that will help us evaluate our novel interface.
 
+- About the eventual noval interface
+- Usability Principles
+
 Data from the requirements gathering phase also allows designers to drive novel interface characteristics. This is done via deduction.
 
-In this lesson, we reviewed requirement gathering techniques. I look forward to seeing you in our next lesson where we will go over each technique in detail.
+- Derive noval interface characteristics
+
+In this lesson, we reviewed requirement gathering techniques. 
+
+- Techniques to discover how the user is currently accomplishing the task
+- Techniques to report our findings

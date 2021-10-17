@@ -1,4 +1,4 @@
-## Coursera Week1 Quiz Test Result
+## Week1 Quiz Test Result
 
 Congratulations! You passed! <br/>
 Grade received 83.33% <br/>
